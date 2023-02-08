@@ -5,4 +5,6 @@ This is my graduation project. I tried to use google MoveNet motion capture mode
 
 I used Python for MoveNet model cause it was very simple to run MoveNet on Python.
 
-Local server starts inside Unity script
+Local server starts inside Unity script. After starting Unity you need to launch Python script.
+
+Next steps is refactoring and upgrading.
